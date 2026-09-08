@@ -1,7 +1,7 @@
 (function(){
   function collectionGroup(group){
     const mains=group.works.filter(work=>!work.detail);
-    return mains.length>1||group.works.some(work=>work.detail||work.installation);
+    return mains.length>1||group.works.some(work=>work.detail);
   }
 
   function previewWork(group){
@@ -10,7 +10,7 @@
   }
 
   function renderWorkCard(work){
-    return `<article class="series-card standalone-card" data-image="${safeHtml(work.path)}">`+
+    return `<article class="series-card standalone-card series-work" data-image="${safeHtml(work.path)}">`+
       `<div class="series-preview-grid single"><div class="series-preview-shot">`+
       `<img src="${pathUrl(work.path)}" alt="${safeHtml(work.title)}" loading="lazy">`+
       `</div></div>`+
