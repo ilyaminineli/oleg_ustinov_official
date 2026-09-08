@@ -1,7 +1,8 @@
 (function(){
   function collectionGroup(group){
+    const series=String(group.series||'').trim();
     const mains=group.works.filter(work=>!work.detail);
-    return mains.length>1||group.works.some(work=>work.detail);
+    return Boolean(series)&&(mains.length>1||group.works.some(work=>work.detail));
   }
 
   function previewWork(group){
@@ -29,7 +30,7 @@
       .filter((value,index,array)=>value&&array.indexOf(value)===index&&value!=='detail'&&value!=='installation');
     const preview=previewWork(group);
     if(!preview)return '';
-    return `<article class="series-card" data-series-key="${safeHtml(group.year+'|||'+(group.series||'Independent works'))}">`+
+    return `<article class="series-card" data-series-key="${safeHtml(group.year+'|||'+(group.series||''))}">`+
       `<div class="series-preview-grid single"><div class="series-preview-shot">`+
       `<img src="${pathUrl(preview.path)}" alt="${safeHtml(preview.title)}" loading="lazy">`+
       `</div></div>`+
