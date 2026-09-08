@@ -1,0 +1,8 @@
+IDM, 2013
+
+Проект «IDM» — продолжение диалога между изображением и звуком, начатого еще в середине нулевых годов с проекта «SQWER». Здесь используются приёмы Intelligent Dance Music для создания крупноформатных живописных произведений. Мутирующая мелодичность вместе с изменяющимся нелинейным ритмом, сбоем на определенном этапе трека, переносится в визуальную сферу. «IDM» апеллирует к детскому, непосредственному восприятию картины как цвето-композиционного блока, которое превращает картину в обозначающийся синтаксическими или смысловыми сломами текст. «IDM» является также примером ресайклинга: вместо холста в серии используется бумага-отход рекламного производства. Работа с логотипической сеткой, покрывающей материал, становится способом создания нового типа «решётки» — подход, развивающийся и в последующих сериях.
+
+
+IDM, 2013
+
+The “IDM” project continues the dialogue between the image and the sound, which originated in the middle of the noughties with the “SQWER” project. The Intelligent Dance Music methods are used to create large format paintings. Mutating melody along with the changing non-linear rhythm and a glitch at the certain moment of the track are transferred into the visual realm. The “IDM” appeals to the childish, intuitive perception of the painting as a combination of colour and composition, turning the painting into a text, full of syntactic and semantic breaks. “IDM” also involves recycling: it utilises waste paper (printed with a logo net) from promo materials.This logo net is modified and turned into a new type of the “grid” — a new method developed in further series.
